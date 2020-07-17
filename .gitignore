@@ -4,5 +4,8 @@ __pycache__
 db.sqlite3
 /static
 /migrations
+mycontracts/migrations
 __init.py__
 .DS_Store
+/myvenv
+.idea
